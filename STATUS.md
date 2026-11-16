@@ -6,6 +6,7 @@ Aktualisiert: 2026-11-16
 Nach dem nächsten Neustart prüfen, ob die App von selbst in der Menüleiste erscheint (Autostart).
 
 ## Zuletzt
+- 2026-11-16: öffentliches Repo github.com/tpa339/tokenzaehler angelegt (ohne `bericht.html` und gebaute App)
 - 2026-11-16: Menü zum Dashboard-Panel umgebaut (Limitbalken, Kennzahlen, Top-5-Projekte, Rest aufklappbar) nach Skill `design-taste-frontend` (app-screens)
 - 2026-11-16: offizielle Preise (Stand 16.11.), EZB-Kurs, Effort-Aufschlüsselung, Limitabfrage über den Schlüsselbund, Autostart
 - 2026-11-16: Zähler (`tokenzaehler.py`), HTML-Bericht und Menüleisten-App (`app/`) gebaut und gestartet
